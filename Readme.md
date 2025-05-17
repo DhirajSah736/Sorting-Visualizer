@@ -39,7 +39,7 @@ An elegant, high-performance **Sorting Visualizer Web Application** built with *
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop](screenshot-desktop-url) | ![Mobile](screenshot-mobile-url) |
+| ![Desktop](./src/img/image-preview.jpg) | ![Mobile](./src/img/sorting-mobile%20view.jpg) |
 
 ---
 
@@ -72,7 +72,7 @@ Designed and developed with ❤️ by **Dhiraj Sah**
 ### 🔧 Installation
 
 ```bash
-git clone https://github.com/your-username/sorting-visualizer.git
+git clone https://github.com/DhirajSah736/Sorting-Visualizer.git
 cd sorting-visualizer
 npm install
 npm run dev
