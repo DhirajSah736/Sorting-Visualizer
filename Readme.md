@@ -54,7 +54,7 @@ An elegant, high-performance **Sorting Visualizer Web Application** built with *
 ---
 ## 🚀 Live Demo
 
-Check out the live app 👉 [https://your-app.vercel.app](https://your-app.vercel.app)
+Check out the live app 👉 [Sorting Visualizer App](https://sorting-visualizer-xi-eight.vercel.app/)
 
 ---
 
