@@ -31,7 +31,7 @@ An elegant, high-performance **Sorting Visualizer Web Application** built with *
 - 🎨 **Modern UI**:
   - Clean black and golden-yellow theme
   - Smooth animations
-  - Responsive and mobile-friendly layou
+  - Responsive and mobile-friendly layout
 
 ---
 
